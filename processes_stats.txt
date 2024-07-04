@@ -1,0 +1,11 @@
+Stats of Timestamp Thu Jul  4 18:38:29 2024 
+PROC_NAME	Arrival_Time	Burst_Time	Turnaround_Time	Waiting_Time
+Proc3		1		3		5		2
+Proc5		5		2		5		3
+Proc6		15		2		4		2
+Proc1		0		5		45		40
+Proc2		0		8		69		61
+Proc4		2		9		83		74
+avg TAT: 35.17
+avg WT: 30.33
+Process finished Thu Jul  4 18:40:19 2024 
